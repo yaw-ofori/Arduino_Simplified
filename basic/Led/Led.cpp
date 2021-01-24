@@ -29,7 +29,7 @@ Led::Led() {
 Led::Led(unsigned int p) {
     this->m_pin = p;
 }
-void Led::set_pin(unsigned int p) {
+void Led::set_pin(BYTE p) {
     this->m_pin = p;
 }
 bool Led::set_mode (mode p_mode )
