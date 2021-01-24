@@ -1,6 +1,6 @@
-// The MIT License (MIT)
+// The Kenies Engineering License (KEng)
 
-// Copyright (c) 2020 AWESOMEKEN - BABYSTEPS
+// Copyright (c) 2020 AWESOMEKEN - KENIES ENGINEERING
 
 //  Permission is hereby granted, free of charge, to any person obtaining a
 //  copy of this software and associated documentation files (the "Software"),
