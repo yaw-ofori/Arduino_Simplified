@@ -26,6 +26,9 @@
 Led::Led() { 
     m_pin = 13; //default pin 
 }
+Led::Led(unsigned int p) {
+    this->m_pin = p;
+}
 void Led::set_pin(unsigned int p) {
     this->m_pin = p;
 }
