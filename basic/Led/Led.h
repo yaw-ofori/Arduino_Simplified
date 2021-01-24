@@ -11,6 +11,7 @@ class Led
 
 public:
     Led();
+    Led(BYTE);
     ~Led();
     //setters 
     void set_pin (BYTE);
